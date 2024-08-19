@@ -1,0 +1,2 @@
+# ConvertDataTableFromExcelToCsv
+Excel形式の編集用データをコンバートして複数個のcsvファイルを出力するコンバーター
