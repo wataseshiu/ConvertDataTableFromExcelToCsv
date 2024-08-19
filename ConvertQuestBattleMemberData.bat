@@ -1,0 +1,1 @@
+..\..\..\QuestDataConverter.exe QuestBattleMemberData %~dp0
