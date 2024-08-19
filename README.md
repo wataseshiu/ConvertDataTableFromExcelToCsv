@@ -1,2 +1,3 @@
 # ConvertDataTableFromExcelToCsv
-Excel形式の編集用データをコンバートして複数個のcsvファイルを出力するコンバーター
+Excel形式の編集用データをコンバートして複数個のcsvファイルを出力するコンバーター  
+ClosedXMLを使用してエクセルファイルを解析し、必要なデータ列だけを抽出してcsvファイルを作成する
